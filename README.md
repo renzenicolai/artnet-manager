@@ -5,3 +5,6 @@ Features:
  - Discovers and lists devices on network
  - Shows status information for detected nodes
  - Test a node by controlling it directly with sliders
+
+# License
+GPLv2
